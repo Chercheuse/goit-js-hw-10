@@ -26,7 +26,7 @@ const options = {
         titleSize: 16,
         message: 'Please choose a date in the future',
         messageSize: 16,
-        timeout: 8000, 
+        timeout: 3000, 
         position: 'topRight', 
         backgroundColor: '#EF4040', 
         titleColor: '#fff', 

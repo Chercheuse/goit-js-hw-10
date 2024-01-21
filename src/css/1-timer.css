@@ -19,6 +19,11 @@ button:disabled {
   color: #989898;
 }
 
+button:hover {
+background: #6C8CFF;
+color: #FFFFFF;
+}
+
 #datetime-picker {
   border-radius: 4px;
   background: #fff;
